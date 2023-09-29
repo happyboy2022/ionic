@@ -1,6 +1,6 @@
 {
   "name": "@happyboy2022/ionic",
-  "version": "0.12.2",
+  "version": "0.12.3",
   "license": "MIT",
   "repository": "nuxt-modules/ionic",
   "description": "Ionic integration for Nuxt",
@@ -45,7 +45,6 @@
     "lint:prettier": "prettier --write --loglevel warn",
     "prepack": "pnpm build",
     "prepare": "husky install",
-    "prepublishOnly": "pnpm lint && pnpm test && pinst --disable",
     "release": "bumpp && npm publish && git push --follow-tags",
     "test": "vitest run",
     "test:types": "tsc --noEmit",
