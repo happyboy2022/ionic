@@ -12,5 +12,5 @@ export const setupPWA = async () => {
   pwaOptions.meta = pwaOptions.meta || {}
   pwaOptions.meta.mobileAppIOS = pwaOptions.meta.mobileAppIOS ?? true
 
-  await installModule('@kevinmarrec/nuxt-pwa')
+  await installModule('@happyboy2022/nuxt-pwa')
 }
