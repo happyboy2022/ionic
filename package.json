@@ -1,6 +1,6 @@
 {
-  "name": "@nuxtjs/ionic",
-  "version": "0.12.1",
+  "name": "@happyboy2022/ionic",
+  "version": "0.12.2",
   "license": "MIT",
   "repository": "nuxt-modules/ionic",
   "description": "Ionic integration for Nuxt",
@@ -58,7 +58,7 @@
     "@ionic/cli": "^7.0.1",
     "@ionic/vue": "^7.0.1",
     "@ionic/vue-router": "^7.0.1",
-    "@kevinmarrec/nuxt-pwa": "^0.17.0",
+    "@happyboy2022/nuxt-pwa": "^0.18.0",
     "@nuxt/kit": "^3.1.0",
     "ionicons": "^7.0.0",
     "pathe": "^1.1.1",
